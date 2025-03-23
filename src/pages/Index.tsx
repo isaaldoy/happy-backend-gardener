@@ -7,7 +7,7 @@ const Index = () => {
       <header className="bg-white shadow">
         <div className="mx-auto max-w-7xl py-6 px-4 sm:px-6 lg:px-8">
           <h1 className="text-3xl font-bold tracking-tight text-gray-900">Security Vulnerability Scanner</h1>
-          <p className="mt-1 text-sm text-gray-500">Scan websites for common security vulnerabilities</p>
+          <p className="mt-1 text-sm text-gray-500">Standard and Advanced scanning options for website security testing</p>
         </div>
       </header>
       <main>
